@@ -1,4 +1,4 @@
-##this is a simple To-Do_app
+#this is a simple To-Do_app
 
 -zod for input validation
 -//body{
